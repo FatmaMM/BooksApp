@@ -15,9 +15,14 @@ This project is about combining various ideas and skills we’ve been practicing
     2- Using an AsyncTask
     3- Parsing a JSON response
     4- Creating a list based on that data and displaying it to the user.
+    
+# Description
+    create a book listing app. 
+    A user able to enter a keyword, press the search button, and recieve a list of published books which relate to that keyword.
+ # project will be evaluated using the [Book Listing project rubric](https://review.udacity.com/#!/rubrics/164/view).
 
 # Requirements
-To achieve this, I'll make use of the Google Books API. This is a well-maintained API which returns information in a JSON format. An example query that we found useful was :
+To achieve this, I'll make use of the [Google Books API](https://developers.google.com/books/docs/v1/getting_started#intro). This is a well-maintained API which returns information in a JSON format. An example query that we found useful was :
 
 https://www.googleapis.com/books/v1/volumes?q=android&maxResults=10
 
